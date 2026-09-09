@@ -39,4 +39,17 @@ return0;
 
 실습과제 4번
 
-실행결과 
+실행결과
+<img width="972" height="124" alt="02-04" src="https://github.com/user-attachments/assets/ccd1978f-cce2-4cf6-b9b5-3cc04b393842" />
+
+실습과제 5번
+
+문제
+
+정수형 변수 num1과 num2를 선언하여 각각 35와 60으로 초기화하고, 포인터 변수 ptr1과 ptr2가 각각 num1과 num2를 가리키도록 하시오.
+두 포인터가 가리키는 값을 비교하여, 더 작은 값에는 10을 더하고 더 큰 값에는 10을 빼시오.
+그 후 두 포인터가 가리키는 값을 서로 교환한 뒤 변경된 num1과 num2의 값을 각각 출력하는 프로그램을 작성하시오.
+
+
+실행결과
+<img width="985" height="166" alt="02-05" src="https://github.com/user-attachments/assets/8293a616-26a8-45af-8a88-36aef8b70236" />
