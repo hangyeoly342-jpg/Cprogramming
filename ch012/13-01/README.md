@@ -202,7 +202,8 @@ double* → 1 증가하면 8바이트 이동
 
 ## 실행결과
 
-<img width="320" height="169" alt="image" src="https://github.com/user-attachments/assets/97a88590-47c9-40d0-96a0-dbb802aa3c8d" />
+<img width="918" height="198" alt="01-2" src="https://github.com/user-attachments/assets/1bd63333-74f2-4838-a299-5d9ef446b6e1" />
+
 
 # 실습과제 3
 
@@ -261,14 +262,17 @@ a++;
 이 문제를 해결하려면 배열의 주소를 저장할 수 있는 별도의 포인터 변수를 선언한 후, 그 포인터에 대해 증가 연산을 수행해야 한다.
 
 ## 3-3. 실행결과
-<img width="336" height="75" alt="image" src="https://github.com/user-attachments/assets/bd484e44-4d4c-4e2d-92f8-ca2d174265b0" />
+<img width="300" height="147" alt="01-3" src="https://github.com/user-attachments/assets/aca83437-308c-4891-9099-1a0af3f1d370" />
 
 # 실습과제 4
 
 ## 실행결과
-<img width="399" height="178" alt="image" src="https://github.com/user-attachments/assets/cc8a6037-23d1-4400-a910-3dd3fd3c953e" />
+<img width="446" height="200" alt="01-4" src="https://github.com/user-attachments/assets/f8f284eb-babc-4db6-aa76-5bf901407543" />
+
 
 # 실습과제 5
 
+
 ## 실행결과
-<img width="369" height="256" alt="image" src="https://github.com/user-attachments/assets/9ebace7d-41c4-40e4-8d87-20df05c6bc0a" />
+<img width="374" height="276" alt="01-5" src="https://github.com/user-attachments/assets/8fc7031c-fc25-4944-8efc-99af3cff5cc3" />
+
