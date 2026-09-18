@@ -217,16 +217,18 @@ printf("문자열의 길이 : %d\n", i);
 
 # 실습과제 2
 ## 실행결과
-<img width="322" height="253" alt="image" src="https://github.com/user-attachments/assets/29d1a2d9-aa8f-41fe-b53d-9ffe060843b8" />
+<img width="323" height="273" alt="2" src="https://github.com/user-attachments/assets/986efb91-0e4f-494d-af0b-270606356baa" />
+
 
 # 실습과제 3
 ## 실행결과
-<img width="316" height="80" alt="image" src="https://github.com/user-attachments/assets/7aeaefc6-5300-4144-8047-df520353b6c2" />
+<img width="362" height="135" alt="3" src="https://github.com/user-attachments/assets/04c4b0db-bd9d-4c8b-9141-3f0815b99d4b" />
 
 # 실습과제 4
 ## 실행결과
-<img width="374" height="109" alt="image" src="https://github.com/user-attachments/assets/48ba0a6a-07a1-4429-b0c2-7a6749968194" />
+<img width="343" height="148" alt="4" src="https://github.com/user-attachments/assets/d61e6d80-3bf0-4be4-b342-3c3b6bafcbbe" />
 
 # 실습과제 5
 ## 실행결과
-<img width="370" height="57" alt="image" src="https://github.com/user-attachments/assets/6109e0e4-051e-4adf-9af6-b941a89063da" />
+<img width="367" height="128" alt="5" src="https://github.com/user-attachments/assets/3c6d9fe5-cfac-4aea-b458-89d023f1e93b" />
+
